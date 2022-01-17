@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application NSA.Revit.RibbonButton</Name>
+    <Assembly>NSA.Revit.RibbonButton.dll</Assembly>
+    <FullClassName>NSA.Revit.RibbonButton.App</FullClassName>
+    <ClientId>d8d24b97-af65-4b21-8121-c5c7189bb90d</ClientId>
+    <VendorId>Nyan.Aung@arup.com</VendorId>
+    <VendorDescription>@Nyan</VendorDescription>
+  </AddIn>
+</RevitAddIns>
